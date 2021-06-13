@@ -14,3 +14,14 @@ points and 32 semantic classes) are collected from virtual urban cities, suburba
 ![image](https://github.com/xiaoaoran/SynLiDAR/blob/main/images/Fig2.PNG)
 
 ![image](https://github.com/xiaoaoran/SynLiDAR/blob/main/images/Fig3.PNG)
+
+## Download
+Coming soon.
+
+## What's going on?
+We are working on generating detection bounding boxes and panoptic segmentation annotations!
+
+## Citation
+If you find our work useful in your research, please consider citing:
+
+## Related Repos
