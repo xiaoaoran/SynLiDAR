@@ -8,4 +8,9 @@ This is official repository of the SynLiDAR dataset. For technical details, plea
 ## (1) Dataset
 SynLiDAR is a large-scale synthetic LiDAR sequential point cloud dataset with point-wise annotations. 13 sequences of LiDAR point cloud with around 20k scans (over 19 billion
 points and 32 semantic classes) are collected from virtual urban cities, suburban towns, neighborhood, and harbor. 
-![image]
+
+![image](https://github.com/xiaoaoran/SynLiDAR/blob/main/images/synlidar.png)
+
+![image](https://github.com/xiaoaoran/SynLiDAR/blob/main/images/Fig2.PNG)
+
+![image](https://github.com/xiaoaoran/SynLiDAR/blob/main/images/Fig3.PNG)
