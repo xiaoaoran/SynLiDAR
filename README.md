@@ -48,7 +48,6 @@ The data should organized in the following format:
       ├── 000001.label
       ...
   ...
-  └── download.py
   └── annotations.yaml
   └── read_data.py
 ```
