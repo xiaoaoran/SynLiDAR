@@ -23,7 +23,7 @@ points and 32 semantic classes) are collected from virtual urban cities, suburba
 ## Download (245.3GB)
 1) You can download SynLiDAR through browser &rarr; [DR-NTU](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BSKUOE)
 
-2) You can also download through provided python script, this require installing pyDataverse
+2) You can also download through provided python script, this requires installing pyDataverse
 ```
 pip install pyDataverse
 python download.py
