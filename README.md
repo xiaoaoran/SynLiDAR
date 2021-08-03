@@ -21,13 +21,14 @@ points and 32 semantic classes) are collected from virtual urban cities, suburba
 ![image](https://github.com/xiaoaoran/SynLiDAR/blob/main/images/Fig3.PNG)
 
 ## Download (245.3GB)
-1) You can download SynLiDAR through browser &rarr; [DR-NTU](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BSKUOE)
+1) You can download SynLiDAR through browser &rarr; [[DR-NTU](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BSKUOE)]
 
 2) You can also download through provided python script, this requires installing pyDataverse
 ```
 pip install pyDataverse
 python download.py
 ```
+3) [[BaiduYun](https://pan.baidu.com/s/1EFsknahSKgDMj7F1tPqrfg)](password: p3wm)
 
 Note: For most of sequences, we compressed and split them into multiple small files. Please download them and cat into one file before extraction. E.g. for sequence 01:
 ```
