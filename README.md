@@ -8,7 +8,7 @@ This is official repository of the SynLiDAR dataset. For technical details, plea
   [Aoran Xiao](https://scholar.google.com/citations?user=yGKsEpAAAAAJ&hl=zh-EN), [Jiaxing Huang](https://scholar.google.com/citations?user=czirNcwAAAAJ&hl=zh-EN), [Dayan Guan](https://scholar.google.com/citations?user=9jp9QAsAAAAJ&hl=zh-EN), [Fangneng Zhan](https://scholar.google.com/citations?user=8zbcfzAAAAAJ&hl=zh-EN), [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/)
 
 ### News
-[2021.Dec.01] SynLiDAR is accepted by AAAI 2022!
+[2021.Dec.01] SynLiDAR is accepted by AAAI 2022!  
 [2021.Jul.28] SynLiDAR is available for download!
 
 ## Dataset
