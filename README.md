@@ -34,7 +34,7 @@ python download.py
 Note: For most of sequences, we compressed and split them into multiple small files. Please download them and cat into one file before extraction. E.g. for sequence 01:
 ```
 cat 01*>01.tar.gz
-tar -zxvf 11.tar.gz
+tar -zxvf 01.tar.gz
 ```
 
 The data should organized in the following format:
