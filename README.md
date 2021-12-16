@@ -24,7 +24,7 @@ points and 32 semantic classes) are collected from virtual urban cities, suburba
 ## Download
 1) You can download SynLiDAR in [Google Drive](https://docs.google.com/forms/d/e/1FAIpQLScZR3re0YFn59mlnag8s7vD5p4JaMkX2oxug5rn1K5bc5C-4g/viewform?usp=sf_link), we provide:  
   -- **FullDataset**: Full SynLiDAR dataset (about 245GB).  
-  -- **SubDataset**: uniformlly downsampled dataset (about 24GB), which is what we used for performances in [Paper](https://arxiv.org/abs/2107.05399). You are recommend to use this smaller dataset for faster experiments.    
+  -- **SubDataset**: uniformlly downsampled dataset (about 24GB), this is the dataset that we used in [Paper](https://arxiv.org/abs/2107.05399). You are recommend to use this smaller dataset for faster experiments.    
 2) [[BaiduYun](https://pan.baidu.com/s/1EFsknahSKgDMj7F1tPqrfg)](password: p3wm)
 3) You can download SynLiDAR through browser &rarr; [[DR-NTU](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BSKUOE)]
 4) You can also download through provided python script, this requires installing pyDataverse
