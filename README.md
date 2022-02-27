@@ -68,3 +68,7 @@ If you find our work useful in your research, please consider citing:
   year={2021}  
 }  
 ```
+
+## Related Repos
+- [Unsupervised Representation Learning for Point Clouds: A Survey](https://github.com/xiaoaoran/3d_url_survey)
+- [FPS-Net: A convolutional fusion network for large-scale LiDAR point cloud segmentation](https://github.com/xiaoaoran/FPS-Net)
