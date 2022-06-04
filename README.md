@@ -61,12 +61,12 @@ We provide class annotations (in 'annotations.yaml') and example python code for
 ## Citation
 If you find our work useful in your research, please consider citing:  
 ```
-@article{xiao2021synlidar,  
-  title={SynLiDAR: Learning From Synthetic LiDAR Sequential Point Cloud for Semantic Segmentation},  
-  author={Xiao, Aoran and Huang, Jiaxing and Guan, Dayan and Zhan, Fangneng and Lu, Shijian},  
-  journal={arXiv preprint arXiv:2107.05399},  
-  year={2021}  
-}  
+@article{xiao2021transfer,
+  title={Transfer learning from synthetic to real LiDAR point cloud for semantic segmentation},
+  author={Xiao, Aoran and Huang, Jiaxing and Guan, Dayan and Zhan, Fangneng and Lu, Shijian},
+  journal={arXiv: 2107.05399},
+  year={2021}
+} 
 ```
 
 ## Related Repos
