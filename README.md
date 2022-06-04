@@ -3,7 +3,7 @@
 # SynLiDAR dataset: Learning From Synthetic LiDAR Sequential Point Cloud
 This is official repository of the SynLiDAR dataset. For technical details, please refer to:
 
-<b> SynLiDAR: Learning From Synthetic LiDAR Sequential Point Cloud for Semantic Segmentation </b> ([Paper](https://arxiv.org/abs/2107.05399))
+<b> Transfer learning from synthetic to real LiDAR point cloud for semantic segmentation </b> ([Paper](https://www.aaai.org/AAAI22Papers/AAAI-1986.XiaoA.pdf))
 
   [Aoran Xiao](https://scholar.google.com/citations?user=yGKsEpAAAAAJ&hl=zh-EN), [Jiaxing Huang](https://scholar.google.com/citations?user=czirNcwAAAAJ&hl=zh-EN), [Dayan Guan](https://scholar.google.com/citations?user=9jp9QAsAAAAJ&hl=zh-EN), [Fangneng Zhan](https://scholar.google.com/citations?user=8zbcfzAAAAAJ&hl=zh-EN), [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/)
 
