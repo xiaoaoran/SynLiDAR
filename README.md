@@ -8,6 +8,7 @@ This is official repository of the SynLiDAR dataset. For technical details, plea
   [Aoran Xiao](https://scholar.google.com/citations?user=yGKsEpAAAAAJ&hl=zh-EN), [Jiaxing Huang](https://scholar.google.com/citations?user=czirNcwAAAAJ&hl=zh-EN), [Dayan Guan](https://scholar.google.com/citations?user=9jp9QAsAAAAJ&hl=zh-EN), [Fangneng Zhan](https://scholar.google.com/citations?user=8zbcfzAAAAAJ&hl=zh-EN), [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/)
 
 ### News
+[2022.Aug.06] We include some [projects](#projects-using-synlidar) that use SynLiDAR.  
 [2021.Dec.01] SynLiDAR is accepted by AAAI 2022!  
 [2021.Jul.28] SynLiDAR is available for download!
 
@@ -61,13 +62,21 @@ We provide class annotations (in 'annotations.yaml') and example python code for
 ## Citation
 If you find our work useful in your research, please consider citing:  
 ```
-@article{xiao2021transfer,
+@inproceedings{xiao2022transfer,
   title={Transfer learning from synthetic to real LiDAR point cloud for semantic segmentation},
   author={Xiao, Aoran and Huang, Jiaxing and Guan, Dayan and Zhan, Fangneng and Lu, Shijian},
-  journal={arXiv: 2107.05399},
-  year={2021}
-} 
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={3},
+  pages={2795--2803},
+  year={2022}
+}
 ```
+
+## Projects using SynLiDAR
+Please feel free to leave us messages to add your projects!
+- [CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation [ECCV2022]](https://github.com/saltoricristiano/cosmix-uda)
+- [GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation [ECCV2022]](https://github.com/saltoricristiano/gipso-sfouda)
 
 ## Related Repos
 - [Unsupervised Representation Learning for Point Clouds: A Survey](https://github.com/xiaoaoran/3d_url_survey)
