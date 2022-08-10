@@ -23,7 +23,7 @@ points and 32 semantic classes) are collected from virtual urban cities, suburba
 ![image](https://github.com/xiaoaoran/SynLiDAR/blob/main/images/Fig3.PNG)
 
 <p align="center">
-<img src="https://github.com/xiaoaoran/SynLiDAR/blob/main/images/example.gif" width="800">
+<img src="https://github.com/xiaoaoran/SynLiDAR/blob/main/images/example.gif" width="512">
 </p>
 
 ## Download
