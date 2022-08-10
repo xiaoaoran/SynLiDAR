@@ -22,6 +22,10 @@ points and 32 semantic classes) are collected from virtual urban cities, suburba
 
 ![image](https://github.com/xiaoaoran/SynLiDAR/blob/main/images/Fig3.PNG)
 
+<p align="center">
+<img src="https://github.com/xiaoaoran/SynLiDAR/blob/main/images/example.gif" width="800">
+</p>
+
 ## Download
 1) You can download SynLiDAR in [Google Drive](https://docs.google.com/forms/d/e/1FAIpQLScZR3re0YFn59mlnag8s7vD5p4JaMkX2oxug5rn1K5bc5C-4g/viewform?usp=sf_link), we provide:  
   -- **FullDataset**: Full SynLiDAR dataset (about 245GB).  
