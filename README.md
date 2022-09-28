@@ -7,7 +7,9 @@ This is official repository of the SynLiDAR dataset. For technical details, plea
 
   [Aoran Xiao](https://scholar.google.com/citations?user=yGKsEpAAAAAJ&hl=zh-EN), [Jiaxing Huang](https://scholar.google.com/citations?user=czirNcwAAAAJ&hl=zh-EN), [Dayan Guan](https://scholar.google.com/citations?user=9jp9QAsAAAAJ&hl=zh-EN), [Fangneng Zhan](https://scholar.google.com/citations?user=8zbcfzAAAAAJ&hl=zh-EN), [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/)
 
-### News
+
+## News
+[2022.Sep.28] Check the latest [benchmark](https://paperswithcode.com/sota/3d-unsupervised-domain-adaptation-on-synlidar) for UDA of LiDAR segmentation (from SynLiDAR to SemanticKITTI).  
 [2022.Aug.06] We recommend some [projects](#projects-using-synlidar) that use SynLiDAR.  
 [2021.Dec.01] SynLiDAR is accepted by AAAI 2022!  
 [2021.Jul.28] SynLiDAR is available for download!
@@ -83,5 +85,7 @@ Please feel free to leave us messages to add your projects!
 - [GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation [ECCV2022]](https://github.com/saltoricristiano/gipso-sfouda)
 
 ## Related Repos
+Find our other repos for point cloud understanding!
+- [PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds](https://github.com/xiaoaoran/polarmix) [NeurIPS 2022]
 - [Unsupervised Representation Learning for Point Clouds: A Survey](https://github.com/xiaoaoran/3d_url_survey)
 - [FPS-Net: A convolutional fusion network for large-scale LiDAR point cloud segmentation](https://github.com/xiaoaoran/FPS-Net)
