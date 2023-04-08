@@ -88,6 +88,7 @@ Please feel free to leave us messages to add your projects!
 
 ## Related Repos
 Find our other repos for point cloud understanding!
-- [PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds](https://github.com/xiaoaoran/polarmix) [NeurIPS 2022]
-- [Unsupervised Representation Learning for Point Clouds: A Survey](https://github.com/xiaoaoran/3d_url_survey) [PAMI]
-- [FPS-Net: A convolutional fusion network for large-scale LiDAR point cloud segmentation](https://github.com/xiaoaoran/FPS-Net)
+- [Unsupervised Representation Learning for Point Clouds: A Survey](https://github.com/xiaoaoran/3d_url_survey), IEEE Transactions on Pattern Analysis and Machine Intelligence 2023.
+- [3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds](https://github.com/xiaoaoran/SemanticSTF), CVPR 2023.
+- [PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds](https://github.com/xiaoaoran/polarmix), NeurIPS 2022.
+- [FPS-Net: A convolutional fusion network for large-scale LiDAR point cloud segmentation](https://github.com/xiaoaoran/FPS-Net), ISPRS journal of Photogrammetry and Remote Sensing 2021.
