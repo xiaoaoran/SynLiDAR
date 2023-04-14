@@ -9,7 +9,7 @@ This is official repository of the SynLiDAR dataset. For technical details, plea
 
 
 ## News
-[2023.Mar.] We released [SemanticSTF](https://github.com/xiaoaoran/SemanticSTF), an adverse weather point cloud dataset with point-wise annotations for semantic segmentation. 
+[2023.Mar.] We released [SemanticSTF](https://github.com/xiaoaoran/SemanticSTF), an adverse weather point cloud dataset with point-wise annotations for semantic segmentation.  
 [2022.Sep.28] Check the latest [benchmark](https://paperswithcode.com/sota/3d-unsupervised-domain-adaptation-on-synlidar) for UDA of LiDAR segmentation (from SynLiDAR to SemanticKITTI).  
 [2022.Aug.06] We recommend some [projects](#projects-using-synlidar) that use SynLiDAR.  
 [2021.Dec.01] SynLiDAR is accepted by AAAI 2022!  
