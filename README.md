@@ -82,6 +82,7 @@ If you find our work useful in your research, please consider citing:
 
 ## Projects using SynLiDAR
 Here we list some projects from top conferences and journals that use SynLiDAR. Please feel free to leave us messages to add your projects!
+- [NeurIPS2023] Segment Any Point Cloud Sequences by Distilling Vision Foundation Models. [[paper](https://arxiv.org/pdf/2306.09347.pdf)] [[project](https://github.com/youquanl/Segment-Any-Point-Cloud)]
 - [CVPR2023] 3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_3D_Semantic_Segmentation_in_the_Wild_Learning_Generalized_Models_for_CVPR_2023_paper.pdf)] [[project](https://github.com/xiaoaoran/SemanticSTF)]
 - [CVPR2023] Adversarially Masking Synthetic to Mimic Real: Adaptive Noise Injection for Point Cloud Segmentation Adaptation. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Adversarially_Masking_Synthetic_To_Mimic_Real_Adaptive_Noise_Injection_for_CVPR_2023_paper.pdf)]
 - [CVPR2023] Single Domain Generalization for LiDAR Semantic Segmentation. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Single_Domain_Generalization_for_LiDAR_Semantic_Segmentation_CVPR_2023_paper.pdf)]
