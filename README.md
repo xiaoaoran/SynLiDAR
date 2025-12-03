@@ -9,7 +9,7 @@ This is official repository of the SynLiDAR dataset. For technical details, plea
 
 
 ## News
-[2023.Mar.] We released [SemanticSTF](https://github.com/xiaoaoran/SemanticSTF), an adverse weather point cloud dataset with point-wise annotations for semantic segmentation.  
+[2023.Mar.] We released [SemanticSTF](https://github.com/xiaoaoran/SemanticSTF), a real adverse weather point cloud dataset with point-wise annotations for 3D semantic segmentation.  
 [2022.Sep.28] Check the latest [benchmark](https://paperswithcode.com/sota/3d-unsupervised-domain-adaptation-on-synlidar) for UDA of LiDAR segmentation (from SynLiDAR to SemanticKITTI).  
 [2022.Aug.06] We recommend some [projects](#projects-using-synlidar) that use SynLiDAR.  
 [2021.Dec.01] SynLiDAR is accepted by AAAI 2022!  
@@ -29,20 +29,23 @@ points and 32 semantic classes) are collected from virtual urban cities, suburba
 <img src="https://github.com/xiaoaoran/SynLiDAR/blob/main/images/example.gif" width="512">
 </p>
 
-## Download
-1) You can download SynLiDAR in [Google Drive](https://docs.google.com/forms/d/e/1FAIpQLScZR3re0YFn59mlnag8s7vD5p4JaMkX2oxug5rn1K5bc5C-4g/viewform?usp=sf_link), we provide:  
+## 📥 Download SynLiDAR
+
+We provide multiple download options depending on your environment and use case.
+
+1) **\[Hugging Face (Recommended)\]** Download SynLiDAR from [huggingface](https://huggingface.co/datasets/AR-X/SynLiDAR) for both fullset and subset variants  
   -- **FullDataset**: Full SynLiDAR dataset (about 245GB).  
-  -- **SubDataset**: uniformlly downsampled dataset (about 24GB), this is the dataset that we used in [Paper](https://arxiv.org/abs/2107.05399). You are recommend to use this smaller dataset for faster experiments.    
-2) [[BaiduYun](https://pan.baidu.com/s/1EFsknahSKgDMj7F1tPqrfg)](password: p3wm)
-3) You can download SynLiDAR through browser &rarr; [[DR-NTU](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BSKUOE)]
-4) You can also download through provided python script, this requires installing pyDataverse
-```
+  -- **SubDataset**: uniformlly downsampled dataset (about 24GB), this is the dataset that we used in [Paper](https://arxiv.org/abs/2107.05399). You are recommend to use this smaller dataset for faster experiments. 
+2) **\[BaiduYun (国内用户推荐)\]** [[BaiduYun](https://pan.baidu.com/s/1EFsknahSKgDMj7F1tPqrfg)](password: p3wm)
+3) **\[DR-NTU\]** You can download SynLiDAR through browser &rarr; [[DR-NTU](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BSKUOE)]
+4) **\[DR-NTU\]** You can also download through provided python script, this requires installing pyDataverse
+```bash
 pip install pyDataverse
 python download.py
 ```
 
 Note: For most of sequences, we compressed and split them into multiple small files. Please download them and cat into one file before extraction. E.g. for sequence 01:
-```
+```bash
 cat 01*>01.tar.gz
 tar -zxvf 01.tar.gz
 ```
